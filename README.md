@@ -2,7 +2,7 @@ link https://sehgxl.github.io/NFT-Card/
 
 NFT preview card component
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
+https://recordit.co/WjuGbahFGe
 
 ## Welcome! 👋
 
