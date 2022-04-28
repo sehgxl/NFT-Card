@@ -1,4 +1,4 @@
-link https://sehgxl.github.io/NFT-Card/
+https://sehgxl.github.io/NFT-Card/
 
 NFT preview card component
 
